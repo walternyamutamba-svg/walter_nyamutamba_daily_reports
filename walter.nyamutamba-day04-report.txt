@@ -1,0 +1,684 @@
+    1  pwd
+    2  dir
+    3  ls
+    4  cd / Desktop
+    5  cd ~/Desktop
+    6  start .
+    7  help
+    8  time
+    9  dirs
+   10  mkdir Walter
+   11  cd ~/Walter
+   12  ls
+   13  cd Walter
+   14  cd ~/Documents/
+   15  ls
+   16  xpdf sample.pdf
+   17  chrome  sample.pdf
+   18  xdg sample.pdf
+   19  google-chrome sample.pdf
+   20  chromium-browser sample.pdf
+   21  firefox  sample.pdf
+   22  apt -get install git
+   23  mkdir Learning
+   24  cd Learning
+   25  explorer
+   26  explorer.
+   27  explorer .
+   28  clear
+   29  ls
+   30  pwd
+   31  cd ~Desktop
+   32  cd ~/Desktop
+   33  mkdir ICL
+   34  cd ICL
+   35  mkdir Linux R LaTeX
+   36  history
+   37  man history
+   38  explorer .
+   39  ../
+   40  ..\
+   41  .../
+   42  cd ../
+   43  sudo hibernate now
+   44  google-chromium
+   45  chromium-browser
+   46  explorer .
+   47  clear
+   48  pwd
+   49  ls
+   50  cd ~/Desktop/ICL
+   51  ls
+   52  clear
+   53  cd Linux
+   54  ls
+   55  rm 
+   56  cd ..
+   57  cd linux
+   58  cd LINUX
+   59  cd 
+   60  pwd
+   61  cd ..
+   62  ls
+   63  cd emmanuel
+   64  ls
+   65  cd Downloads
+   66  ls
+   67  cd
+   68  cd Desktop
+   69  ls
+   70  cd ICL
+   71  mkdir sample
+   72  rmdir sample
+   73  ls
+   74  cd Linux
+   75  touch fillename.txt
+   76  ls
+   77  cd
+   78  ls
+   79  cd ..
+   80  ls
+   81  cd emmanuel
+   82  ls
+   83  cd Downloads
+   84  ls
+   85  cd
+   86  cd Linux
+   87  pwd
+   88  cd ~/Desktop
+   89  xdg-open
+   90  xdg-open .
+   91  cd Downloads
+   92  cd
+   93  cd ..
+   94  ls
+   95  cd emmanuel
+   96  xdg-open .
+   97  cd
+   98  cd ~/Desktop
+   99  ls
+  100  cd ICL
+  101  CD lINUX
+  102  CD Linux
+  103  cd  Linux
+  104  xdg-open .
+  105  history >> fillename.txt
+  106  xdg-open .
+  107  history >> fillename.txt
+  108  xdg-open
+  109  xdg-open .
+  110  ls
+  111  tail -4 fillename.txt
+  112  sed -n '100p' fillename.txt
+  113  sed -n '105p' fillename.txt
+  114  less fillename.txt
+  115  'cd' fillename.txt
+  116  grep 'cd' fillename.txt
+  117  man -n
+  118  man sed
+  119  cat day2_file.txt
+  120  nano  day2_file.txt
+  121  man echo
+  122  echo -e '\n\n\n' day2_file.txt
+  123  nano  day2_file.txt
+  124  echo -e '\n\n\n' >> day2_file.txt
+  125  nano  day2_file.txt
+  126  echo -e '\n\n\n' >> day2_file.txt
+  127  nano  day2_file.txt
+  128  nano  my_script.sh
+  129  cat  my_script.sh
+  130  ls
+  131  cd .
+  132  .  my_script.sh
+  133  ls
+  134  rm -rf Exercises
+  135  ls
+  136  nano  my_script.sh
+  137  LS
+  138  ls
+  139  cd Linux
+  140  ls
+  141  nano  my_script.sh
+  142  . my_script.sh
+  143  nano  my_script.sh
+  144  ls
+  145  cd Linux
+  146  ls
+  147  nano  my_script.sh
+  148  . my_script.sh
+  149  read -p info
+  150  sudo systemctl hibernate
+  151  sudo systemcl hibernate 
+  152  cd
+  153  ls
+  154  cd .
+  155  cd ..
+  156  ls
+  157  cd emmanuel
+  158  sudo systemcl hibernate 
+  159  su emmanuel
+  160  nano day2_nc.sh
+  161  cd
+  162  cd /Desktop
+  163  ls
+  164  cd Desktop/ICL
+  165  LS
+  166  ls
+  167  cd Linux
+  168  ls
+  169  nano day2_nc.sh
+  170  . day2_nc.sh
+  171  nano day2_nc.sh
+  172  . day2_nc.sh
+  173  nano day2_nc.sh
+  174  . day2_nc.sh
+  175  nano day2_nc.sh
+  176  . day2_nc.sh
+  177  nano day2_nc.sh
+  178  . day2_nc.sh
+  179  nano day2_nc.sh
+  180  . day2_nc.sh
+  181  nano day2_nc.sh
+  182  . day2_nc.sh
+  183  nano day2_nc.sh
+  184  . day2_nc.sh
+  185  nano day2_nc.sh
+  186  . day2_nc.sh
+  187  nano day2_nc.sh
+  188  . day2_nc.sh
+  189  nano day2_nc.sh
+  190  . day2_nc.sh
+  191  nano day2_nc.sh
+  192  . day2_nc.sh
+  193  nano day2_nc.sh
+  194  . day2_nc.sh
+  195  nano day2_nc.sh
+  196  . day2_nc.sh
+  197  nano day2_nc.sh
+  198  . day2_nc.sh
+  199  google-chromium
+  200  chromium-browser
+  201  explorer .
+  202  clear
+  203  pwd
+  204  ls
+  205  cd ~/Desktop/ICL
+  206  ls
+  207  clear
+  208  cd Linux
+  209  ls
+  210  rm 
+  211  cd ..
+  212  cd linux
+  213  cd LINUX
+  214  cd 
+  215  pwd
+  216  cd ..
+  217  ls
+  218  cd emmanuel
+  219  ls
+  220  cd Downloads
+  221  ls
+  222  cd
+  223  cd Desktop
+  224  ls
+  225  cd ICL
+  226  mkdir sample
+  227  rmdir sample
+  228  ls
+  229  cd Linux
+  230  touch fillename.txt
+  231  ls
+  232  cd
+  233  ls
+  234  cd ..
+  235  ls
+  236  cd emmanuel
+  237  ls
+  238  cd Downloads
+  239  ls
+  240  cd
+  241  cd Linux
+  242  pwd
+  243  cd ~/Desktop
+  244  xdg-open
+  245  xdg-open .
+  246  cd Downloads
+  247  cd
+  248  cd ..
+  249  ls
+  250  cd emmanuel
+  251  xdg-open .
+  252  cd
+  253  cd ~/Desktop
+  254  ls
+  255  cd ICL
+  256  CD lINUX
+  257  CD Linux
+  258  cd  Linux
+  259  xdg-open .
+  260  history >> fillename.txt
+  261  xdg-open .
+  262  history >> fillename.txt
+  263  xdg-open
+  264  xdg-open .
+  265  ls
+  266  tail -4 fillename.txt
+  267  sed -n '100p' fillename.txt
+  268  sed -n '105p' fillename.txt
+  269  less fillename.txt
+  270  'cd' fillename.txt
+  271  grep 'cd' fillename.txt
+  272  man -n
+  273  man sed
+  274  cat day2_file.txt
+  275  nano  day2_file.txt
+  276  man echo
+  277  echo -e '\n\n\n' day2_file.txt
+  278  nano  day2_file.txt
+  279  echo -e '\n\n\n' >> day2_file.txt
+  280  nano  day2_file.txt
+  281  echo -e '\n\n\n' >> day2_file.txt
+  282  nano  day2_file.txt
+  283  nano  my_script.sh
+  284  cat  my_script.sh
+  285  ls
+  286  cd .
+  287  .  my_script.sh
+  288  ls
+  289  rm -rf Exercises
+  290  ls
+  291  nano  my_script.sh
+  292  LS
+  293  ls
+  294  cd Linux
+  295  ls
+  296  nano  my_script.sh
+  297  . my_script.sh
+  298  nano  my_script.sh
+  299  ls
+  300  cd Linux
+  301  ls
+  302  nano  my_script.sh
+  303  . my_script.sh
+  304  read -p info
+  305  sudo systemctl hibernate
+  306  sudo systemcl hibernate 
+  307  cd
+  308  ls
+  309  cd .
+  310  cd ..
+  311  ls
+  312  cd emmanuel
+  313  sudo systemcl hibernate 
+  314  su emmanuel
+  315  nano day2_nc.sh
+  316  cd
+  317  cd /Desktop
+  318  ls
+  319  cd Desktop/ICL
+  320  LS
+  321  ls
+  322  cd Linux
+  323  ls
+  324  nano day2_nc.sh
+  325  . day2_nc.sh
+  326  nano day2_nc.sh
+  327  . day2_nc.sh
+  328  nano day2_nc.sh
+  329  . day2_nc.sh
+  330  nano day2_nc.sh
+  331  . day2_nc.sh
+  332  nano day2_nc.sh
+  333  . day2_nc.sh
+  334  nano day2_nc.sh
+  335  . day2_nc.sh
+  336  nano day2_nc.sh
+  337  . day2_nc.sh
+  338  nano day2_nc.sh
+  339  . day2_nc.sh
+  340  nano day2_nc.sh
+  341  . day2_nc.sh
+  342  nano day2_nc.sh
+  343  . day2_nc.sh
+  344  nano day2_nc.sh
+  345  . day2_nc.sh
+  346  nano day2_nc.sh
+  347  . day2_nc.sh
+  348  nano day2_nc.sh
+  349  . day2_nc.sh
+  350  nano day2_nc.sh
+  351  . day2_nc.sh
+  352  nano day2_nc.sh
+  353  . day2_nc.sh
+  354  nano day2_nc.sh
+  355  . day2_nc.sh
+  356  nano day2_nc.sh
+  357  . day2_nc.sh
+  358  nano day2_nc.sh
+  359  . day2_nc.sh
+  360  nano day2_nc.sh
+  361  . day2_nc.sh
+  362  nano day2_nc.sh
+  363  . day2_nc.sh
+  364  nano day2_nc.sh
+  365  . day2_nc.sh
+  366  nano day2_nc.sh
+  367  . day2_nc.sh
+  368  nano day2_nc.sh
+  369  . day2_nc.sh
+  370  nano day2_nc.sh
+  371  . day2_nc.sh
+  372  nano day2_nc.sh
+  373  . day2_nc.sh
+  374  nano day2_nc.sh
+  375  . day2_nc.sh
+  376  nano day2_nc.sh
+  377  . day2_nc.sh
+  378  nano day2_nc.sh
+  379  . day2_nc.sh
+  380  nano day2_nc.sh
+  381  . day2_nc.sh
+  382  nano day2_nc.sh
+  383  sudo systemctl hibernate
+  384  cd
+  385  LS
+  386  ls
+  387  cd Downloads
+  388  mv daye_nc.sh ~/Desktop/ICL/Linux
+  389  mv day2_nc.sh ~/Desktop/ICL/Linux
+  390  cd  ~/Desktop/ICL/Linux
+  391  ls
+  392  nano day2_nc.sh
+  393  ano day2_nc.sh
+  394  nano day2_nc.sh
+  395  fg
+  396  . day2_nc.sh
+  397  nano day2_nc.sh
+  398  . day2_nc.sh
+  399  nano day2_nc.sh
+  400  . day2_nc.sh
+  401  nano day2_nc.sh
+  402  . day2_nc.sh
+  403  nano day2_nc.sh
+  404  . day2_nc.sh
+  405  nano day2_nc.sh
+  406  . day2_nc.sh
+  407  nano day2_nc.sh
+  408  . day2_nc.sh
+  409  nano day2_nc.sh
+  410  . day2_nc.sh
+  411  nano day2_nc.sh
+  412  . day2_nc.sh
+  413  nano day2_nc.sh
+  414  . day2_nc.sh
+  415  nano day2_nc.sh
+  416  . day2_nc.sh
+  417  nano day2_nc.sh
+  418  . day2_nc.sh
+  419  nano day2_nc.sh
+  420  . day2_nc.sh
+  421  nano day2_nc.sh
+  422  . day2_nc.sh
+  423  nano day2_nc.sh
+  424  . day2_nc.sh
+  425  nano day2_nc.sh
+  426  . day2_nc.sh
+  427  nano day2_nc.sh
+  428  . day2_nc.sh
+  429  nano day2_nc.sh
+  430  . day2_nc.sh
+  431  nano day2_nc.sh
+  432  . day2_nc.sh
+  433  nano day2_nc.sh
+  434  . day2_nc.sh
+  435  nano day2_nc.sh
+  436  . day2_nc.sh
+  437  nano day2_nc.sh
+  438  . day2_nc.sh
+  439  nano day2_nc.sh
+  440  touch func.sh
+  441  nano func.sh
+  442  . func.sh
+  443  nano func.sh
+  444  . func.sh
+  445  nano func.sh
+  446  . func.sh
+  447  nano func.sh
+  448  . func.sh
+  449  nano func.sh
+  450  . func.sh
+  451  nano func.sh
+  452  . func.sh
+  453  mkdir First_Assignment
+  454  cd First_Assignment
+  455  touch walter_nyamutamba_ICL.sh
+  456  nano  walter_nyamutamba_ICL.sh
+  457  cd
+  458  cd ~/Downloads ~/Desktop/ICL/Linux/Assignment
+  459  cd student_info.csv  ~/Downloads ~/Desktop/ICL/Linux/Assignment
+  460  mv student_info.csv  ~/Desktop/ICL/Linux/Assignment
+  461  mv students_info.csv ~/Downloads ~/Desktop/ICL/Linux/Assignment
+  462  cd /Downloads
+  463  cd ~/Downloads
+  464  mv students_info.csv ~/Desktop/ICL/Linux/Assignment
+  465  mv students_info.csv ~/Desktop/ICL/Linux/First_Assignment
+  466  mv student_info.csv ~/Desktop/ICL/Linux/First_Assignment
+  467  cd ~/Desktop/ICL/Linux/First_Assignment
+  468  nano student_info.csv
+  469  ls
+  470  nano walter_nyamutamba_ICL.sh
+  471  .  walter_nyamutamba_ICL.sh
+  472  ls
+  473  cd AY202526
+  474  cd AY20252026
+  475  ls
+  476  cd .
+  477  cd ..
+  478  nano walter_nyamutamba_ICL.sh
+  479  .  walter_nyamutamba_ICL.sh
+  480  nano walter_nyamutamba_ICL.sh
+  481  .  walter_nyamutamba_ICL.sh
+  482  nano walter_nyamutamba_ICL.sh
+  483  .  walter_nyamutamba_ICL.sh
+  484  nano walter_nyamutamba_ICL.sh
+  485  .  walter_nyamutamba_ICL.sh
+  486  nano walter_nyamutamba_ICL.sh
+  487  .  walter_nyamutamba_ICL.sh
+  488  nano walter_nyamutamba_ICL.sh
+  489  .  walter_nyamutamba_ICL.sh
+  490  nano walter_nyamutamba_ICL.sh
+  491  .  walter_nyamutamba_ICL.sh
+  492  nano walter_nyamutamba_ICL.sh
+  493  .  walter_nyamutamba_ICL.sh
+  494  nano walter_nyamutamba_ICL.sh
+  495  .  walter_nyamutamba_ICL.sh
+  496  nano walter_nyamutamba_ICL.sh
+  497  .  walter_nyamutamba_ICL.sh
+  498  nano walter_nyamutamba_ICL.sh
+  499  .  walter_nyamutamba_ICL.sh
+  500  nano walter_nyamutamba_ICL.sh
+  501  .  walter_nyamutamba_ICL.sh
+  502  ls
+  503  cd AY20252026
+  504  LS
+  505  ls
+  506  nano walter_nyamutamba_ICL.sh
+  507  cd ..
+  508  nano walter_nyamutamba_ICL.sh
+  509  ls
+  510  nano walter_nyamutamba_ICL.sh
+  511  .  walter_nyamutamba_ICL.sh
+  512  nano walter_nyamutamba_ICL.sh
+  513  .  walter_nyamutamba_ICL.sh
+  514  xdg-open .
+  515  nano walter_nyamutamba_ICL.sh
+  516  .  walter_nyamutamba_ICL.sh
+  517  nano walter_nyamutamba_ICL.sh
+  518  fg
+  519  nano walter_nyamutamba_ICL.sh
+  520  history
+  521  latex
+  522  latex --version
+  523  cd ~/Desktop/ICL
+  524  LS
+  525  ls
+  526  cd LateX
+  527  cd ~/LateX
+  528  cd ~/LaTeX
+  529  cd LaTeX
+  530  nano my_first_doc.tex
+  531  pdflatex my_first_doc.tex
+  532  nano my_first_doc.tex
+  533  pdflatex my_first_doc.tex
+  534  xdg-open .
+  535  xdg-open my_first_doc.pdf
+  536  nano my_first_doc.tex
+  537  evince  my_first_doc.pdf
+  538  open .
+  539  open.
+  540  nano my_first_doc.tex
+  541  open.
+  542  open .
+  543  cd ~/Desktop/ICL/
+  544  LS
+  545  ls
+  546  cd Linux
+  547  ls
+  548  cd First_Assignment
+  549  ls
+  550  nano walter_nyamutamba_ICL.sh
+  551  nano student_info.csv
+  552  nano walter_nyamutamba_ICL.sh
+  553  . open
+  554  install.packages(openxlsx)
+  555  install.packages("openxlsx")
+  556  install.package("openxlsx")
+  557  ls
+  558  cd ~/Desktop/UCL
+  559  cd ~/Desktop
+  560  LS
+  561  ls
+  562  cd ICL
+  563  LS
+  564  ls
+  565  cd Linux
+  566  ls
+  567  touch fillename.txt
+  568  cat fillename.txt
+  569  ls
+  570  bash day2_nc.sh
+  571  nano walter_nyamutamba_ICL.sh
+  572  ls
+  573  nano day2_nc.sh
+  574  ls
+  575  cd Desktop
+  576  ls
+  577  cd python_course
+  578  python
+  579  jupyter notebook
+  580  python
+  581  cd Downloads
+  582  python run -m  sample.py
+  583  ls
+  584  python -m  sample.py
+  585  python -m doctest  sample.py
+  586  python -m doctest -v  sample.py
+  587  MAN GIT
+  588  man git
+  589  git help
+  590  git config --global walter.nyamutamba "Walter"
+  591  .
+  592  ..
+  593  ...
+  594  .
+  595  cd .
+  596  cd ...
+  597  cd ..
+  598  mkdir simplestats
+  599  ls
+  600  cd walle
+  601  mkdir simplestats
+  602  cd simplestats
+  603  git init
+  604  ls -A .git
+  605  cd .git
+  606  ls -A
+  607  nano description
+  608  git status
+  609  cd ...
+  610  cd .
+  611  ...
+  612  .
+  613  cd ..
+  614  touch README.md
+  615  git status
+  616  git add README.md
+  617  git status
+  618  git commit -am "This is the first commit. It adds a readme file."
+  619  git config --global user.email "walter.nyamutamba@aims.ac.rw"
+  620  git commit -am "This is the first commit. It adds a readme file."
+  621  git config --global user.name  "Walter"
+  622* 
+  623  cd ..
+  624  ls
+  625  rm -rf simplestats
+  626  ls
+  627  git config --global user.name  "Walter"
+  628  git config --global user.email "walter.nyamutamba@aims.ac.rw"
+  629  cd
+  630  mkdir simplestats
+  631  git init
+  632  ls -A .git
+  633  ls -A
+  634  cd .git
+  635  ls -A
+  636  nano description
+  637  tree
+  638  git status
+  639  cd ..
+  640  git status
+  641  ls
+  642  cd simplestats
+  643  git status
+  644  touch README.md
+  645  git status
+  646  ls
+  647  git add README.md
+  648  git status
+  649  git commit -am "This is the first commit. It adds a readme file"
+  650  git status
+  651  nano README.md
+  652  git diff
+  653  git diff --stat
+  654  git diff HEAD --[.git]
+  655  git diff --cached
+  656  git log
+  657  nano temp_notes
+  658  git reset temp_notes
+  659  git status
+  660  git checkout --README.md
+  661  git status
+  662  touch READYOU.md
+  663  nano READYOU.md
+  664  git rm READYOU.md
+  665  ls
+  666  nano READYOU.md
+  667  ls
+  668  git rm READYOU.md
+  669  ls
+  670  nano READYOU.md
+  671  git rm  READYOU.md
+  672  rm  READYOU.md
+  673  git checkout --README.md
+  674  git diff
+  675  git revert abc456
+  676  git log
+  677  git log --pretty=online
+  678  nano file1.txt
+  679  nano file2.txt
+  680  nano file3.txt
+  681  nano file4.txt
+  682  nano file5.txt
+  683  history
+  684  history >> filename.txt
